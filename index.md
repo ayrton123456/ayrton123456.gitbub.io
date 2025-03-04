@@ -1,17 +1,18 @@
 # Welcome to My GitHub Page  
 
 ## About Me  
-Hello! I am **your name**. This is my first website using GitHub Pages!  
+Hello powell i am **_ayrton_** and i hate this.
 
 ## My Interests  
-- 🖥️ Coding  
-- 🎨 Design  
-- 📖 Reading  
+- 🖥️ _Coding_  
+- 🎨 **Design**  
+- 📖 _Reading_  
 
 ## My Favorite Websites  
-1. [GitHub](https://github.com)  
+1. [Shellshockers](https://shellshock.io/)
 2. [YouTube](https://youtube.com)  
-3. [W3Schools](https://www.w3schools.com)  
+3. [fortnite](https://www.fortnite.com/?lang=en-US)
+
 
 ## Sample Table  
 | Name  | Age | Country |
@@ -20,7 +21,7 @@ Hello! I am **your name**. This is my first website using GitHub Pages!
 | Bob   | 30  | UK      |
 
 ## Image Example  
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)  
+![diddy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZMOhtykqkWkH_iZln6EF696LuqXwebYXtbVWBujKEEjKYmM27_p-Ib2pP2JKCxeQ3JaE4XJdGPt0JOZqBtvnVkxi_hisjetHbcHVHS-E)  
 
 ## Embedded YouTube Video  
 [![YouTube Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
